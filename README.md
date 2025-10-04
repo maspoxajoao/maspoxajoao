@@ -1,11 +1,10 @@
-# João Victor Braga Soares 🚀
+# João Victor
 
 **Desenvolvedor Full Stack | Spring Boot | React | APIs REST**
 
 ✉️ [j0407victor@gmail.com](mailto:j0407victor@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jvbraga-dev/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:j0407victor@gmail.com)
 
 ---
 
