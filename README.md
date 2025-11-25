@@ -1,29 +1,61 @@
-**Olá 👋, eu sou João Victor**
- 
-Desenvolvedor Full Stack | Spring Boot | React | APIs REST
+# João Victor Braga Soares  
+**Desenvolvedor Back-end | C# • .NET • Java • SQL**
 
-Estudante de **Engenharia de Software**, com experiência prática em **Full Stack** e atuação como **Estagiário em Banco de Dados**. Apaixonado por aprender novas tecnologias e entregar soluções eficientes.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jvbraga-dev/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:j0407victor@gmail.com)
-## 🚀 No momento
-- 💻 Estudnado novas práticas em **React**
-- 🛠️ Procurando oportunidades para criar projetos Full Stack e contribuir em equipes de desenvolvimento
-- 📚 Compartilho conhecimento e estudo constantemente sobre **Java, Spring Boot, React, SQL e mais**
+Sou estudante de Engenharia de Software (3º período) com experiência prática como Estagiário em Banco de Dados (Oracle), trabalhando com performance, otimização de queries e manutenção de ambientes críticos.  
+Atualmente foco no desenvolvimento Back-end com **C#/.NET** e **Java/Spring**, construindo APIs REST bem estruturadas e integrando aplicações com bancos de dados relacionais.
 
 ---
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
+## 🚀 Stack Principal
+**Back-end:**  
+- C#, .NET, Java, Spring Boot  
+- Arquitetura em camadas (Controllers, Services, Repository)  
+- Clean code, DTOs, AutoMapper, Dependency Injection  
+- APIs REST, validações e documentação (Swagger)  
+- Entity Framework Core (Migrations, Fluent API)  
+- JPA/Hibernate
+
+**Banco de Dados:**  
+- Oracle (experiência profissional)  
+- SQL Server  
+- MySQL  
+- Migrations, modelagem e otimização de consultas
+
+**DevOps e Infraestrutura:**  
+- Docker (containerização de API e banco)  
+- Azure DevOps (CI/CD em estudo)  
+- Azure App Service (publicação de APIs)  
+
+**Front-end (apoio):**  
+- React, JavaScript, HTML, CSS  
+
+**Ferramentas:**  
+- Git, GitHub, Postman, Vercel, VS Code, IntelliJ, Azure DevOps Repos
+
+---
+
+## 📌 Projetos em Destaque
+
+- **Spring Boot – Gestão de Produtos**  
+  API Java com JPA, camada de serviço e estrutura modular. Focado em CRUD e integrações REST.
+
+- **Sistema de Agendamento – HTML, CSS e JavaScript**  
+  Aplicação web com consumo de API, autenticação, CRUD e deploy na Vercel.
+
+- **EmailSenderApp – C#**  
+  Serviço backend simples para envio de e-mails via SMTP.
+
+---
+
+## 📈 O que estou estudando no momento
+- CI/CD com Azure DevOps  
+- Containerização com Docker e Docker Compose  
+- Publicação de APIs .NET no Azure  
+- Boas práticas de arquitetura e segurança em APIs  
+- Melhores práticas de modelagem SQL
+
+---
+
+## 🌎 Onde me encontrar
+🔗 **LinkedIn:** linkedin.com/in/jvbraga-dev  
+📧 **Email:** j0407victor@gmail.com
