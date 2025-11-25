@@ -1,4 +1,4 @@
-# João Victor Braga Soares  
+# João Victor 
 **Desenvolvedor Back-end | C# • .NET • Java • SQL**
 
 Sou estudante de Engenharia de Software (3º período) com experiência prática como Estagiário em Banco de Dados (Oracle), trabalhando com performance, otimização de queries e manutenção de ambientes críticos.  
