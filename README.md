@@ -19,8 +19,8 @@ Minha trajetória inclui experiência prática como **Estagiário DBA**, onde de
 
 ### 🛠️ Projetos em Destaque
 
-#### [Agendador de Consultas - Fullstack](https://github.com/maspoxajoao/gestor-de-produtos-springboot)
-Sistema completo de gestão e agendamento desenvolvido com **Java 21**, **Spring Boot** e **React**. 
+#### [Gestor de Produtos - Fullstack](https://github.com/maspoxajoao/gestor-de-produtos-springboot)
+Sistema completo de gestão desenvolvido com **Java 21**, **Spring Boot** e **HTML**. 
 - Implementação de arquitetura em camadas (Controller, Service, Repository).
 - Persistência de dados com foco em integridade e performance.
 - Interface responsiva desenvolvida a partir de protótipos de alta fidelidade.
@@ -45,14 +45,12 @@ Acredito que software é feito de pessoas para pessoas. Valorizo a comunicação
 
 ### 📫 Vamos nos conectar?
 
-- **LinkedIn:** [Seu Link do LinkedIn aqui]
-- **Email:** [Seu Email aqui]
-- **Portfólio:** [Link se houver]
+- **LinkedIn:** [https://www.linkedin.com/in/jvbraga-dev/]
+- **Email:** [j0407victor@gmail.com]
 
 ---
 
 ### 📊 Estatísticas do GitHub
-*(Opcional: Adicionar cards de estatísticas do GitHub para mostrar atividade em commits)*
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maspoxajoao&layout=compact&theme=vision-friendly-dark)
 
