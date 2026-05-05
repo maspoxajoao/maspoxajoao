@@ -8,7 +8,7 @@ Minha trajetória inclui experiência prática como **Estagiário DBA**, onde de
 
 ---
 
-### 🚀 Tecnologias e Habilidades
+### Tecnologias e Habilidades
 
 - **Backend:** Java (Spring Boot, Spring Security, JPA), Node.js, REST APIs.
 - **Frontend:** React, TypeScript, SCSS, Styled Components, HTML5/CSS3.
@@ -17,7 +17,7 @@ Minha trajetória inclui experiência prática como **Estagiário DBA**, onde de
 
 ---
 
-### 🛠️ Projetos em Destaque
+### Projetos em Destaque
 
 #### [Gestor de Produtos - Fullstack](https://github.com/maspoxajoao/gestor-de-produtos-springboot)
 Sistema completo de gestão desenvolvido com **Java 21**, **Spring Boot** e **HTML**. 
@@ -32,18 +32,20 @@ Aplicação focada na experiência do usuário para escritórios de psicologia.
 
 ---
 
-### 📝 Produção Técnica & Insights
+### Produção Técnica & Insights
 Além de codar, gosto de analisar os "porquês" da tecnologia. Escrevi sobre:
 - **Monolitos vs. Microserviços:** Uma análise técnica sobre como escolher a arquitetura ideal sem se deixar levar pelo hype de mercado, baseada na minha vivência com sistemas legados e modernos.
 
 ---
 
-### 🤝 Soft Skills & Colaboração
+### Soft Skills & Colaboração
 Acredito que software é feito de pessoas para pessoas. Valorizo a comunicação clara e a ponte entre os times técnicos e comerciais, característica que refinei trabalhando em ambientes de suporte técnico e desenvolvimento bridge.
 
 ---
 
-LinkedIn: linkedin.com/in/jvbraga-dev
+### Contato
 
-Email: j0407victor@gmail.com
+*   **LinkedIn:** [linkedin.com/in/jvbraga-dev](https://www.linkedin.com/in/jvbraga-dev)
+*   **Email:** [j0407victor@gmail.com](mailto:j0407victor@gmail.com)
 
+---
