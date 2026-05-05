@@ -43,20 +43,7 @@ Acredito que software é feito de pessoas para pessoas. Valorizo a comunicação
 
 ---
 
-### 📫 Vamos nos conectar?
+LinkedIn: linkedin.com/in/jvbraga-dev
 
-- **LinkedIn:** [https://www.linkedin.com/in/jvbraga-dev/]
-- **Email:** [j0407victor@gmail.com]
+Email: j0407victor@gmail.com
 
----
-
-### 📊 Estatísticas do GitHub
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maspoxajoao&layout=compact&theme=vision-friendly-dark)
-
-***
-
-### 💡 Dicas de Implementação:
-1.  **Imagens:** Adicione os links reais do seu LinkedIn e Email nos campos indicados.
-2.  **Badges:** Você pode substituir o texto das tecnologias por badges visuais (usando shields.io) para uma leitura mais rápida de Tech Recruiter.
-3.  **Projetos Fixados:** No seu perfil principal, certifique-se de que os repositórios citados acima estejam no topo (Pinned).
