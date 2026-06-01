@@ -38,7 +38,7 @@ Tenho facilidade para transitar por todo o ciclo de vida do software, compreende
 
 ## Contato
 
-* **LinkedIn:** [linkedin.com/in/jvbraga-dev](https://www.google.com/search?q=https%3A%2F%2Flinkedin.com%2Fin%2Fjvbraga-dev)
+* **LinkedIn:** [linkedin.com/in/jvbraga-dev](https://www.linkedin.com/in/jvbraga-dev/)
 * **Email:** j0407victor@gmail.com
 
 ---
