@@ -31,8 +31,8 @@ Tenho facilidade para transitar por todo o ciclo de vida do software, compreende
 
 ### Sistema de Gestão Clínica
 
-* **Stack:** HTML, SCSS, APIs REST
-* **Resumo:** Interface focada na usabilidade para escritórios de psicologia. Destaque para o consumo assíncrono rigoroso de dados de APIs externas e arquitetura modular de estilos utilizando SCSS para garantir escalabilidade e padronização visual.
+* **Stack:** HTML, CSS, APIs REST, Vercel
+* **Resumo:** Interface focada na usabilidade para escritórios de psicologia. Destaque para o consumo assíncrono rigoroso de dados de APIs externas e arquitetura modular de estilos utilizando CSS para garantir escalabilidade e padronização visual.
 
 ---
 
