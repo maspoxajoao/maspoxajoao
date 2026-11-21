@@ -1,44 +1,55 @@
 # João Victor
 
-**Desenvolvedor Fullstack | Estudante de Engenharia de Software**
+**Desenvolvedor back-end em formação (Java e Spring Boot)** · 4 semestres de Engenharia de Software · Belo Horizonte, MG
 
-Desenvolvedor Fullstack com foco na construção de soluções escaláveis, seguras e na entrega de interfaces de alta fidelidade. Combino o rigor técnico do backend com a performance do frontend, apoiado por uma base sólida adquirida em experiências anteriores com administração de bancos de dados (DBA) e suporte técnico.
+Gosto de onde o código encontra a regra de negócio: entender o problema, modelar os dados e entregar uma API que funcione. Antes de focar em desenvolvimento, trabalhei com administração de bancos Oracle em produção e com suporte técnico N1/N2. Essa experiência me deu uma base sólida em SQL, monitoramento e comunicação com times e clientes.
 
-Tenho facilidade para transitar por todo o ciclo de vida do software, compreendendo a arquitetura de ponta a ponta — desde a otimização de queries relacionais até a experiência do usuário final, sempre valorizando a comunicação clara entre as regras de negócio e os times técnicos.
-
----
-
-## Tecnologias e Ferramentas
-
-* **Backend:** Java (Spring Boot, Spring Security, JPA), Node.js, REST APIs.
-* **Frontend:** React, TypeScript, SCSS, Styled Components, HTML5/CSS3.
-* **Bancos de Dados:** PostgreSQL, Oracle SQL, MySQL, H2.
-* **Arquitetura e Infraestrutura:** Git/GitHub, Docker, Clean Architecture, SOLID, Figma (Pixel-perfect), Metodologias Ágeis.
+Estou em busca da minha primeira oportunidade como desenvolvedor, em vagas júnior ou em posições de suporte e sustentação de sistemas que me aproximem do código.
 
 ---
 
-## Projetos em Destaque
+## Tecnologias que uso nos meus projetos
 
-### Sistema de Autenticação (Auth Demo)
+| Área | O que tem nos repositórios |
+|---|---|
+| **Back-end** | Java 21/22, Spring Boot, Spring Data JPA, Hibernate, REST, Maven |
+| **Bancos de dados** | H2 e SQLite nos projetos. Oracle e SQL (CTEs e funções de janela) na experiência profissional |
+| **Front-end** | React, TypeScript, SCSS, Vite, HTML, CSS, JavaScript puro |
+| **Serviços e deploy** | Supabase (autenticação e OAuth com Google), Vercel |
+| **Ferramentas** | Git e GitHub, Maven, VS Code, Figma (implementação a partir de protótipo) |
 
-* **Stack:** React, TypeScript, Supabase, Vercel
-* **Resumo:** Infraestrutura completa de autenticação no frontend. Implementação de fluxos OAuth2 e credenciais tradicionais, proteção de rotas via tokens JWT (Route Guards stateless), interceptação e tratamento de erros de API, resolução de Rate Limiting (HTTP 429) e configuração de roteamento SPA em ambiente de produção.
+> Estou estudando agora: testes automatizados (JUnit e MockMvc), validação e tratamento de erros em APIs, PostgreSQL e Docker.
 
-### Gestor de Produtos & Agendador de Horários
+---
 
-* **Stack:** Java 21, Spring Boot, Maven, H2
-* **Resumo:** Aplicações focadas na integridade de dados e lógica de negócios. Desenvolvimento estruturado em arquitetura de camadas (Controller, Service, Repository), garantindo baixo acoplamento, alta testabilidade e persistência robusta de dados.
+## Projetos em destaque
 
-### Sistema de Gestão Clínica
+### [Agendador de Horários](https://github.com/maspoxajoao/agendador-horarios)
+API REST de agendamentos com verificação de conflito de horário. **Java 21 · Spring Boot · JPA · H2**
 
-* **Stack:** HTML, CSS, APIs REST, Vercel
-* **Resumo:** Interface focada na usabilidade para escritórios de psicologia. Destaque para o consumo assíncrono rigoroso de dados de APIs externas e arquitetura modular de estilos utilizando CSS para garantir escalabilidade e padronização visual.
+### [Gestor de Produtos (Spring Boot)](https://github.com/maspoxajoao/gestor-de-produtos-springboot)
+API REST com CRUD completo e consultas derivadas do Spring Data (por nome, preço e soma total), mais dois clientes de teste (Java e HTML). **Java · Spring Boot · JPA · SQLite**
+
+### [Auth Demo](https://github.com/maspoxajoao/auth-demo)
+Fluxo de autenticação no front-end com e-mail e senha e login com Google (OAuth2), rota protegida e deploy na Vercel. O README documenta os problemas reais que resolvi (erro 429, 404 em SPA, redirecionamento de callback). **React · TypeScript · Supabase**
+
+### [Teste Front-End Econverse](https://github.com/maspoxajoao/teste-front-end)
+Landing page feita a partir de um layout do Figma, com vitrine em carrossel consumindo uma API externa, modal de produto e componentes separados. **React · TypeScript · SCSS**
+
+### [Sistema de Clínica de Psicologia](https://github.com/maspoxajoao/Sistema-Consutorio-Front)
+Front-end de um sistema de pacientes (login, cadastro e CRUD) integrado a uma API fornecida pelo bootcamp da Arnia. **HTML · CSS · JavaScript puro**
+
+---
+
+## Experiência
+
+- **Estagiário de DBA, Startup Dados e Sistemas** (mai/2024 a jun/2025): ambientes Oracle em produção, monitoramento diário com Grafana, relatórios mensais de capacidade para clientes, consultas SQL e documentação em Git e Markdown.
+- **Suporte Técnico, BP Tech** (ago/2023 a fev/2024): suporte N1/N2, ponte entre desenvolvimento e áreas de negócio, acompanhamento de bugs e melhorias em ClickUp, rotinas Scrum e Kanban.
+- **Suporte Técnico N2, BOT Telecom** (jun a set/2026): redes (PPPoE, DNS, DHCP) e integração de sistemas.
 
 ---
 
 ## Contato
 
-* **LinkedIn:** [linkedin.com/in/jvbraga-dev](https://www.linkedin.com/in/jvbraga-dev/)
-* **Email:** j0407victor@gmail.com
-
----
+- LinkedIn: [jvbraga-dev](https://www.linkedin.com/in/jvbraga-dev/)
+- E-mail: j0407victor@gmail.com
